@@ -1,5 +1,5 @@
 # FEUP-LCOM
-Code developed in the course unit.
+Code developed in the course unit and later revised for publishing
 
 ### Project Infos
 * **Date:** 2nd Year, 1st Semester, 2017/2018
