@@ -8,7 +8,8 @@ Code developed in the course unit and later revised for publishing
 * **Project's Collaboration:** Nuno Martins (up201605945)
 
 ## Interesting features
- - Low level function system calls
+ - Low level/HardWare interface function system calls in C/Assembly
+ - Coded drivers for ordinary I/O Peripherals
  - Interrupt Handling
  - Timer, Keyboard, Timer, RTC, Video Card control
  - Command line arguments
