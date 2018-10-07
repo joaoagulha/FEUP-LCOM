@@ -5,7 +5,12 @@ Code developed in the course unit and later revised for publishing
 * **Date:** 2nd Year, 1st Semester, 2017/2018
 * **Course:** Laboratórios de Computadores (LCOM) / Computer Laboratories
 * **Course Link:** https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=399888
-* **Project's Collaboration:** Nuno Martins (up201605945)
+
+## Project's Collaboration:
+Element | College e-mail
+--------|---------------
+João Miguel Agulha | up201607930@fe.up.pt
+Nuno Martins | up201605945@fe.up.pt
 
 ## Interesting features
  - Low level/HardWare interface function system calls in C/Assembly
